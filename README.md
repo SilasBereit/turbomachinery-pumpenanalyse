@@ -2,11 +2,11 @@
 
 ## Projektbeschreibung
 
-Dieses Repository enthält das Projekt für die **Strömungsmaschinen-Vorlesung – Pumpenanalyse** an der **DHBW Karlsruhe**. Ziel des Projekts ist es, das Betriebsverhalten einer Wasserpumpe basierend auf realen Messdaten und Herstellerangaben zu analysieren. Es werden Berechnungen zur Schätzung des Energieverbrauchs, der Pumpen-Effizienz und der Umwandlung von hydraulischer Energie durchgeführt.
+Dieses Repository enthält das Projekt für die **Strömungsmaschinen-Vorlesung – Pumpenanalyse** an der **DHBW Karlsruhe**. Ziel des Projekts ist es, das Betriebsverhalten einer Wasserpumpe basierend auf vorliegenden Messdaten und Herstellerangaben zu analysieren. Es werden Berechnungen zur Schätzung des Energieverbrauchs der Umwandlung von hydraulischer Energie und die daraus resultierende Effizienz durchgeführt.
 
 ## Projektkontext
 
-Das Projekt analysiert eine Wasserpumpe in einer industriellen Umgebung. Die Leistungsdaten, insbesondere der Volumenstrom, sind in der Datei `volume_flow_data.csv` enthalten. Die Pumpe hat einen Impellerdurchmesser von **264 mm**.
+Das Projekt analysiert eine Wasserpumpe in einer industriellen Umgebung. Die Leistungsdaten, insbesondere der Volumenstrom, sind in der Datei `volume_flow_data.csv` enthalten. Die Pumpe hat einen Impellerdurchmesser von **264 mm**. Das Datenblatt des Pumpenherstellers stellt unter Anderem die Föderhöhe der Pumpe in Abhängigkeit vom Volumenstrom dar.
 
 ## Anforderungen
 
